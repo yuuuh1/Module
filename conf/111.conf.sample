@@ -1,0 +1,17 @@
+[111]
+# node路径
+node_exec_path=/opt/gc/zy/lib/zy_nodejs/bin/node
+# 脚本文件路径
+node_exec_script_path=/opt/gc/zy/lib/zy_nodejs/111.js
+# google-chrome路径
+google_chrome_path=/usr/bin/google-chrome
+
+browser_url=https://www.foo.com
+# nodejs命令行参数
+node_js_command_line_parameters=--no-sandbox
+# 使用指定的node_modules运行node，比如全局node模块
+env_node_modules_path=/opt/gc/zy/lib/zy_nodejs/node_modules/
+# URL访问记录
+json_path==/opt/gc/zy/var/lib/***.json
+jpg_path==/opt/gc/zy/var/lib/***.jpg
+
